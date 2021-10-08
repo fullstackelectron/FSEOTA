@@ -1,0 +1,23 @@
+{  
+  "name": "FSEOTA",
+  "version": "1.0.1",
+  "description": "Update your device Over The Air",
+  "keywords": "Over the air OTA",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/fullstackelectron/FSEOTA.git"
+  },
+  "authors":
+  [
+    {
+      "name": "Fullstack Electron",
+      "email": "info@fullstackelectron.com",
+      "url": "https://fullstackelectron.com"
+    }
+  ],
+  "license": "MIT",
+  "homepage": "https://fullstackelectron.com",
+  "frameworks": "*",
+  "platforms": "*"
+}
